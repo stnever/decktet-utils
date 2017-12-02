@@ -1,0 +1,22 @@
+{
+  "name": "decktet-utils",
+  "version": "1.0.0",
+  "description": "This project includes a small library of functions to support (eventual) HTML5 games based on the Decktet (http://www.decktet.com).",
+  "main": "src/decktet-utils.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stnever/decktet-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stnever/decktet-utils/issues"
+  },
+  "homepage": "https://github.com/stnever/decktet-utils#readme"
+}
